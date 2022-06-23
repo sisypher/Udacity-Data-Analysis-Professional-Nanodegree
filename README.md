@@ -1,2 +1,5 @@
 # Udacity Data Analysis Professional Nanodegree
- My implementation to the projects needed to complete the Data Analysis Nanodegree. 
+
+![Completion Certificate](Certificate.PNG)
+
+This repo has my implementation for the projects needed to complete the Data Analysis Nanodegree.
